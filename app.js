@@ -83,7 +83,7 @@ async function loadCatalog() {
     if (!Array.isArray(data.tracks)) throw new Error('Catálogo inválido');
     tracks = data.tracks.filter(validTrack);
     const minutes = Math.round(tracks.reduce((total, track) => total + (Number(track.duration) || 0), 0) / 60000);
-    document.querySelector('#selection-meta').textContent = `Seleção de ${data.owner} · ${tracks.length} faixas · ${Math.floor(minutes / 60)} h ${minutes % 60} min`;
+    document.querySelector('#selection-meta').textContent = `Seleção pessoal · ${tracks.length} faixas · ${Math.floor(minutes / 60)} h ${minutes % 60} min`;
     const highlights = document.querySelector('#highlights');
     highlights.replaceChildren();
     for (const index of [3, 0, 13, 36]) {

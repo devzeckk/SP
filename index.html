@@ -4,15 +4,15 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#161a18">
-  <meta name="description" content="night, uma seleção de zeca. Encontre sua próxima música e abra direto no Spotify.">
+  <meta name="description" content="night, uma seleção pessoal. Encontre sua próxima música e abra direto no Spotify.">
   <title>night — SP / seleção pessoal</title>
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;600;700;800&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=portrait-cover-1">
+  <link rel="stylesheet" href="styles.css?v=album-cover-3">
   <script src="catalog.js" defer></script>
-  <script src="app.js" defer></script>
+  <script src="app.js?v=selection-2" defer></script>
 </head>
 <body id="inicio">
   <a class="skip" href="#conteudo">Pular para o conteúdo</a>
@@ -34,24 +34,26 @@
     <div class="library">
       <p class="label">NA SUA ESTANTE</p>
       <a class="library-item" href="#faixas">
-        <div class="mini-cover" aria-hidden="true">n.</div><span><strong>night</strong><small>seleção de zeca</small></span><svg><use href="#arrow"/></svg>
+        <div class="mini-cover" aria-hidden="true">n.</div><span><strong>night</strong><small>seleção pessoal</small></span><svg><use href="#arrow"/></svg>
       </a>
     </div>
     <div class="sidebar-bottom"><span class="status-dot"></span> Sua seleção. Seu ritmo.<p>Escolha aqui.<br>Ouça no Spotify.</p></div>
   </aside>
 
   <main id="conteudo">
-    <header class="topbar"><span>UMA SELEÇÃO DE <strong>ZECA</strong></span><a href="#faixas">Escolher música <svg><use href="#arrow"/></svg></a></header>
+    <header class="topbar"><span>SUA SELEÇÃO PESSOAL</span><a href="#faixas">Escolher música <svg><use href="#arrow"/></svg></a></header>
     <section class="hero" aria-labelledby="selection-title">
       <div class="hero-copy">
         <p class="eyebrow"><span class="status-dot"></span> A TRILHA DA SUA MADRUGADA</p>
         <h1 id="selection-title">night<span>.</span></h1>
         <p class="hero-description">Pra quando o mundo desacelera<br>e a música fica.</p>
-        <p class="selection-meta" id="selection-meta">Seleção de zeca <span>·</span> Seleção pessoal</p>
+        <p class="selection-meta" id="selection-meta">Seleção pessoal</p>
         <div class="hero-actions"><a class="button button-primary" href="#faixas"><svg><use href="#list"/></svg>Explorar faixas <span>↓</span></a><a class="text-link" href="#destaques">Ver destaques <span>↗</span></a></div>
       </div>
-      <div class="hero-art hero-art--photo">
-        <img class="cover-art-image" src="assets/night-cover.webp" width="1500" height="1049" alt="Capa night com retrato em retícula verde, tipografia preta e disco de vinil" fetchpriority="high" decoding="async">
+      <div class="hero-art">
+        <div class="vinyl" aria-hidden="true"><span class="vinyl-label">sp.</span></div>
+        <div class="sleeve sleeve--photo"><img class="album-cover-image" src="assets/night-album-clean.webp" width="1254" height="1254" alt="Capa night com retrato em retícula verde, tipografia preta e círculos impressos" fetchpriority="high" decoding="async"></div>
+        <span class="art-caption">UMA BOA NOITE COMEÇA COM UMA BOA FAIXA.</span>
       </div>
     </section>
 
@@ -75,4 +77,3 @@
   </main>
 </body>
 </html>
-

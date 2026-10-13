@@ -1,6 +1,6 @@
 # SP — night
 
-Uma vitrine musical para a seleção **night**, de **zeca**. Visual próprio inspirado em uma estante de discos, busca por música/artista e links individuais que abrem no Spotify. Responsivo, sem login, sem backend e sem dependências de instalação.
+Uma vitrine musical para a seleção **night**. Visual próprio inspirado em uma estante de discos, busca por música/artista e links individuais que abrem no Spotify. Responsivo, sem login, sem backend e sem dependências de instalação.
 
 ## GitHub Pages
 
