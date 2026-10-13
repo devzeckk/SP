@@ -83,7 +83,7 @@ async function loadCatalog() {
     if (!Array.isArray(data.tracks)) throw new Error('Catálogo inválido');
     tracks = data.tracks.filter(validTrack);
     const minutes = Math.round(tracks.reduce((total, track) => total + (Number(track.duration) || 0), 0) / 60000);
-    document.querySelector('#playlist-meta').textContent = `Playlist de ${data.owner} · ${tracks.length} faixas · ${Math.floor(minutes / 60)} h ${minutes % 60} min`;
+    document.querySelector('#selection-meta').textContent = `Seleção de ${data.owner} · ${tracks.length} faixas · ${Math.floor(minutes / 60)} h ${minutes % 60} min`;
     const highlights = document.querySelector('#highlights');
     highlights.replaceChildren();
     for (const index of [3, 0, 13, 36]) {
@@ -102,8 +102,8 @@ async function loadCatalog() {
     message.hidden = true;
     renderTracks();
   } catch {
-    message.textContent = 'Não foi possível carregar as faixas. Você ainda pode abrir a playlist no Spotify pelo botão acima.';
-    document.querySelector('#highlights').replaceChildren(element('p', 'loading', 'A seleção completa está no Spotify.'));
+    message.textContent = 'Não foi possível carregar as faixas. Atualize a página para tentar novamente.';
+    document.querySelector('#highlights').replaceChildren(element('p', 'loading', 'Os destaques aparecerão quando as faixas forem carregadas.'));
     document.querySelector('#highlights').setAttribute('aria-busy', 'false');
   } finally { tracksList.setAttribute('aria-busy', 'false'); }
 }
