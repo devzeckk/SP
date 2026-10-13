@@ -1,0 +1,16 @@
+const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const vm = require('node:vm');
+const context = vm.createContext({ URL });
+const source = fs.existsSync('catalog.js') ? fs.readFileSync('catalog.js', 'utf8') : '';
+vm.runInContext(source, context);
+assert.equal(typeof context.filterTracks, 'function', 'Busca ainda não implementada');
+const tracks = [{title:'Coração',artist:'João',url:'https://open.spotify.com/track/1234567890123456789012'}, {title:'Outro dia',artist:'Ana',url:'https://open.spotify.com/track/abcdefghijklmnopqrstuv'}];
+assert.equal(context.filterTracks(tracks, ' CORACAO ').length, 1);
+assert.equal(context.filterTracks(tracks, 'joao')[0].title, 'Coração');
+assert.equal(context.filterTracks(tracks, 'nada').length, 0);
+assert.equal(context.filterTracks(tracks, '').length, 2);
+assert.equal(context.validTrack(tracks[0]), true);
+for (const url of ['javascript:alert(1)', 'https://open.spotify.com.evil.test/track/1234567890123456789012', 'http://open.spotify.com/track/1234567890123456789012', 'https://open.spotify.com/playlist/1234567890123456789012']) assert.equal(context.validTrack({...tracks[0],url}), false);
+assert.equal(context.validTrack({url:tracks[0].url}), false);
+console.log('PASS: busca sem acentos, resultados vazios e validação de links Spotify.');

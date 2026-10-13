@@ -1,0 +1,641 @@
+{
+  "name": "night",
+  "owner": "zeca",
+  "url": "https://open.spotify.com/playlist/2WRwRA5ZhhiC7H8pQ9YSaA",
+  "cover": "https://mosaic.scdn.co/640/ab67616d00001e020cd942c1a864afa4e92d04f2ab67616d00001e028b52c6b9bc4e43d873869699ab67616d00001e02a0b780c23fc3c19bd412b234ab67616d00001e02c027ad28821777b00dcaa888",
+  "updated": "2026-10-13",
+  "tracks": [
+    {
+      "title": "All The Stars (with SZA) - From \"Black Panther: The Album\"",
+      "artist": "Kendrick Lamar, SZA",
+      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02c027ad28821777b00dcaa888",
+      "duration": 232186,
+      "explicit": true
+    },
+    {
+      "title": "LOYALTY. FEAT. RIHANNA.",
+      "artist": "Kendrick Lamar, Rihanna",
+      "url": "https://open.spotify.com/track/6SwRhMLwNqEi6alNPVG00n",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e028b52c6b9bc4e43d873869699",
+      "duration": 227360,
+      "explicit": true
+    },
+    {
+      "title": "All Mine",
+      "artist": "Kanye West",
+      "url": "https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e020cd942c1a864afa4e92d04f2",
+      "duration": 145506,
+      "explicit": true
+    },
+    {
+      "title": "Chanel",
+      "artist": "Frank Ocean",
+      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02a0b780c23fc3c19bd412b234",
+      "duration": 210285,
+      "explicit": true
+    },
+    {
+      "title": "Lost in the Fire (feat. The Weeknd)",
+      "artist": "Gesaffelstein, The Weeknd",
+      "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e027842fd51802451ff61483dcf",
+      "duration": 202093,
+      "explicit": true
+    },
+    {
+      "title": "Ivy",
+      "artist": "Frank Ocean",
+      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02c5649add07ed3720be9d5526",
+      "duration": 249191,
+      "explicit": true
+    },
+    {
+      "title": "Nights",
+      "artist": "Frank Ocean",
+      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02c5649add07ed3720be9d5526",
+      "duration": 307151,
+      "explicit": true
+    },
+    {
+      "title": "I Was Never There",
+      "artist": "The Weeknd, Gesaffelstein",
+      "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e021f6a2a40bb692936879db730",
+      "duration": 241066,
+      "explicit": false
+    },
+    {
+      "title": "Die For You",
+      "artist": "The Weeknd",
+      "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02a048415db06a5b6fa7ec4e1a",
+      "duration": 260253,
+      "explicit": false
+    },
+    {
+      "title": "Is There Someone Else?",
+      "artist": "The Weeknd",
+      "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e024ab2520c2c77a1d66b9ee21d",
+      "duration": 199111,
+      "explicit": false
+    },
+    {
+      "title": "The Hills",
+      "artist": "The Weeknd",
+      "url": "https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e027fcead687e99583072cc217b",
+      "duration": 242253,
+      "explicit": true
+    },
+    {
+      "title": "Pink + White",
+      "artist": "Frank Ocean",
+      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02c5649add07ed3720be9d5526",
+      "duration": 184516,
+      "explicit": false
+    },
+    {
+      "title": "Les",
+      "artist": "Childish Gambino",
+      "url": "https://open.spotify.com/track/0YsGMHid6sFq5PcToe3JZE",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02ddd59d8bd5982e6d250d9a22",
+      "duration": 317293,
+      "explicit": true
+    },
+    {
+      "title": "See You Again (feat. Kali Uchis)",
+      "artist": "Tyler, The Creator, Kali Uchis",
+      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e028940ac99f49e44f59e6f7fb3",
+      "duration": 180386,
+      "explicit": true
+    },
+    {
+      "title": "EARFQUAKE",
+      "artist": "Tyler, The Creator",
+      "url": "https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0230a635de2bb0caa4e26f6abb",
+      "duration": 190072,
+      "explicit": true
+    },
+    {
+      "title": "3005",
+      "artist": "Childish Gambino",
+      "url": "https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0226d64b6150aa3d9b6b67d857",
+      "duration": 234215,
+      "explicit": true
+    },
+    {
+      "title": "Call Out My Name",
+      "artist": "The Weeknd",
+      "url": "https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e021f6a2a40bb692936879db730",
+      "duration": 228373,
+      "explicit": false
+    },
+    {
+      "title": "Finesse - Remix; feat. Cardi B",
+      "artist": "Bruno Mars, Cardi B",
+      "url": "https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0247e522adf030a78615cdea06",
+      "duration": 217288,
+      "explicit": false
+    },
+    {
+      "title": "Feels Like Summer",
+      "artist": "Childish Gambino",
+      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02602ca5b83fe44b68074a74b2",
+      "duration": 297404,
+      "explicit": false
+    },
+    {
+      "title": "Flashing Lights",
+      "artist": "Kanye West, Dwele",
+      "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
+      "duration": 237506,
+      "explicit": true
+    },
+    {
+      "title": "Bound 2",
+      "artist": "Kanye West",
+      "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e021dacfbc31cc873d132958af9",
+      "duration": 229146,
+      "explicit": true
+    },
+    {
+      "title": "BEST INTEREST",
+      "artist": "Tyler, The Creator",
+      "url": "https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02ab8995f18dc3dd9f34a6acd4",
+      "duration": 127921,
+      "explicit": true
+    },
+    {
+      "title": "Congratulations (feat. Bilal)",
+      "artist": "Mac Miller, Bilal",
+      "url": "https://open.spotify.com/track/1OubIZ0ARYCUq5kceYUQiO",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e022e92f776279eaf45d14a33fd",
+      "duration": 256426,
+      "explicit": true
+    },
+    {
+      "title": "Me and Your Mama",
+      "artist": "Childish Gambino",
+      "url": "https://open.spotify.com/track/4AFsRbaLKRWo3dDtjDFA2V",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e027582716b3666a5235d5af4ea",
+      "duration": 379226,
+      "explicit": false
+    },
+    {
+      "title": "Heartbeat",
+      "artist": "Childish Gambino",
+      "url": "https://open.spotify.com/track/0zo4aX57COch7Wh3NRImTM",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02ddd59d8bd5982e6d250d9a22",
+      "duration": 269840,
+      "explicit": true
+    },
+    {
+      "title": "Where This Flower Blooms (feat. Frank Ocean)",
+      "artist": "Tyler, The Creator, Frank Ocean",
+      "url": "https://open.spotify.com/track/6KuXb26rHuRy3ZDse1VRmx",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e028940ac99f49e44f59e6f7fb3",
+      "duration": 194933,
+      "explicit": true
+    },
+    {
+      "title": "ARE WE STILL FRIENDS?",
+      "artist": "Tyler, The Creator",
+      "url": "https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0230a635de2bb0caa4e26f6abb",
+      "duration": 265480,
+      "explicit": true
+    },
+    {
+      "title": "GONE, GONE / THANK YOU",
+      "artist": "Tyler, The Creator",
+      "url": "https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0230a635de2bb0caa4e26f6abb",
+      "duration": 375386,
+      "explicit": true
+    },
+    {
+      "title": "NEW MAGIC WAND",
+      "artist": "Tyler, The Creator",
+      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0230a635de2bb0caa4e26f6abb",
+      "duration": 195327,
+      "explicit": true
+    },
+    {
+      "title": "In My Room",
+      "artist": "Frank Ocean",
+      "url": "https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02db974f9533dd9b362891b5db",
+      "duration": 133680,
+      "explicit": true
+    },
+    {
+      "title": "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
+      "artist": "Tyler, The Creator, Brent Faiyaz, Fana Hues",
+      "url": "https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02940aa635eea98719f6ca4ad9",
+      "duration": 588139,
+      "explicit": true
+    },
+    {
+      "title": "Self Care",
+      "artist": "Mac Miller",
+      "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02175c577a61aa13d4fb4b6534",
+      "duration": 345133,
+      "explicit": true
+    },
+    {
+      "title": "4:44",
+      "artist": "JAŸ-Z",
+      "url": "https://open.spotify.com/track/1gT5TGwbkkkUliNzHRIGi1",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e027513c4956ea5552caf02eab6",
+      "duration": 284493,
+      "explicit": true
+    },
+    {
+      "title": "American Boy",
+      "artist": "Estelle, Kanye West",
+      "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e0298dc3e242a818007dd67b7c5",
+      "duration": 284733,
+      "explicit": true
+    },
+    {
+      "title": "Wait a Minute!",
+      "artist": "WILLOW",
+      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0253b17b025865ae89bcb68062",
+      "duration": 196520,
+      "explicit": false
+    },
+    {
+      "title": "Woo",
+      "artist": "Rihanna",
+      "url": "https://open.spotify.com/track/3HQcsqRjRdruUjkbDSgmVF",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e026be9bac15995f089579074de",
+      "duration": 235586,
+      "explicit": true
+    },
+    {
+      "title": "After Hours",
+      "artist": "The Weeknd",
+      "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+      "duration": 361026,
+      "explicit": false
+    },
+    {
+      "title": "Summertime In Paris",
+      "artist": "Jaden, WILLOW",
+      "url": "https://open.spotify.com/track/6XNANAB7sFvkfho6bMCp7o",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0260ec4df52c2d724bc53ffec5",
+      "duration": 270960,
+      "explicit": true
+    },
+    {
+      "title": "Redbone",
+      "artist": "Childish Gambino",
+      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e027582716b3666a5235d5af4ea",
+      "duration": 326933,
+      "explicit": true
+    },
+    {
+      "title": "lost souls (with Brent Faiyaz)",
+      "artist": "Baby Keem, Brent Faiyaz",
+      "url": "https://open.spotify.com/track/02rdXe0KhMe8p6ZHzYtuw0",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e023bcf586e8df6f8ef4a36ca3c",
+      "duration": 269727,
+      "explicit": true
+    },
+    {
+      "title": "Cinnamon Girl",
+      "artist": "Lana Del Rey",
+      "url": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02879e9318cb9f4e05ee552ac9",
+      "duration": 300683,
+      "explicit": false
+    },
+    {
+      "title": "Chicago",
+      "artist": "Michael Jackson",
+      "url": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e0235f36cb686b0d5a12ab3a9f0",
+      "duration": 245565,
+      "explicit": false
+    },
+    {
+      "title": "Heaven Can Wait",
+      "artist": "Michael Jackson",
+      "url": "https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0276bfd700e0c47fae7f2c7b75",
+      "duration": 289680,
+      "explicit": false
+    },
+    {
+      "title": "Heartless",
+      "artist": "Kanye West",
+      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02346d77e155d854735410ed18",
+      "duration": 211000,
+      "explicit": false
+    },
+    {
+      "title": "Pyramids",
+      "artist": "Frank Ocean",
+      "url": "https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e027aede4855f6d0d738012e2e5",
+      "duration": 592920,
+      "explicit": true
+    },
+    {
+      "title": "Love On The Brain",
+      "artist": "Rihanna",
+      "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e026be9bac15995f089579074de",
+      "duration": 224000,
+      "explicit": true
+    },
+    {
+      "title": "Poison",
+      "artist": "Brent Faiyaz",
+      "url": "https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e021a0d446b811ad07512eb19df",
+      "duration": 212992,
+      "explicit": false
+    },
+    {
+      "title": "She",
+      "artist": "Tyler, The Creator, Frank Ocean",
+      "url": "https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0228ae9a159d24cb0ab2552712",
+      "duration": 253386,
+      "explicit": true
+    },
+    {
+      "title": "Love",
+      "artist": "Keyshia Cole",
+      "url": "https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e022cc2323c681b3f84cdc8379a",
+      "duration": 255333,
+      "explicit": false
+    },
+    {
+      "title": "Nikes",
+      "artist": "Frank Ocean",
+      "url": "https://open.spotify.com/track/19YKaevk2bce4odJkP5L22",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02c5649add07ed3720be9d5526",
+      "duration": 314075,
+      "explicit": true
+    },
+    {
+      "title": "Deixa Chapar",
+      "artist": "Orochi, Kizzy, Mainstreet",
+      "url": "https://open.spotify.com/track/6b7bKdjQVs3Dzeqoz2s7uN",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02bc7b684486f82e85e5d93156",
+      "duration": 219230,
+      "explicit": true
+    },
+    {
+      "title": "Menina Veneno",
+      "artist": "Ritchie",
+      "url": "https://open.spotify.com/track/6qlb3j0zGqEe6uWJpQZGxP",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02df1ad76d06fe7f07e70b164a",
+      "duration": 281293,
+      "explicit": false
+    },
+    {
+      "title": "Ride",
+      "artist": "Lana Del Rey",
+      "url": "https://open.spotify.com/track/7yFMhCJOsH7khgpdnyrZAZ",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02ebc8cfac8b586bc475b04918",
+      "duration": 289080,
+      "explicit": true
+    },
+    {
+      "title": "Loveeeeeee Song",
+      "artist": "Rihanna, Future",
+      "url": "https://open.spotify.com/track/5Mk1tgVrSuoWWwPVFNS0jB",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e026dee21d6cd1823e4d6231d37",
+      "duration": 256320,
+      "explicit": true
+    },
+    {
+      "title": "Adore You",
+      "artist": "Harry Styles",
+      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0225180571abce9472f61bd722",
+      "duration": 207139,
+      "explicit": false
+    },
+    {
+      "title": "Poison",
+      "artist": "Bell Biv DeVoe",
+      "url": "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e020ce91190aaea70dd4fe020c4",
+      "duration": 261853,
+      "explicit": false
+    },
+    {
+      "title": "Reminder",
+      "artist": "The Weeknd",
+      "url": "https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e024718e2b124f79258be7bc452",
+      "duration": 218880,
+      "explicit": true
+    },
+    {
+      "title": "Candy Shop",
+      "artist": "50 Cent, Olivia",
+      "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0291f7222996c531b981e7bb3d",
+      "duration": 209106,
+      "explicit": true
+    },
+    {
+      "title": "Freak",
+      "artist": "Doja Cat",
+      "url": "https://open.spotify.com/track/3aA6xB0tOilDDX17fIJ0Bl",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02ce9e7a5d6ce63facaa824665",
+      "duration": 284480,
+      "explicit": true
+    },
+    {
+      "title": "Sky",
+      "artist": "Playboi Carti",
+      "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0298ea0e689c91f8fea726d9bb",
+      "duration": 193234,
+      "explicit": true
+    },
+    {
+      "title": "Eyes Without A Face",
+      "artist": "Billy Idol",
+      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02ea07dca8b4ca808c1e5b17fb",
+      "duration": 299240,
+      "explicit": false
+    },
+    {
+      "title": "Small Worlds",
+      "artist": "Mac Miller",
+      "url": "https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02175c577a61aa13d4fb4b6534",
+      "duration": 271733,
+      "explicit": true
+    },
+    {
+      "title": "Sundress",
+      "artist": "A$AP Rocky",
+      "url": "https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e021ae967e4a02c7a39eb3c189b",
+      "duration": 158205,
+      "explicit": true
+    },
+    {
+      "title": "Solo",
+      "artist": "Frank Ocean",
+      "url": "https://open.spotify.com/track/35xSkNIXi504fcEwz9USRB",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02c5649add07ed3720be9d5526",
+      "duration": 257380,
+      "explicit": true
+    },
+    {
+      "title": "God Is Fair, Sexy Nasty (feat. Kendrick Lamar)",
+      "artist": "Mac Miller, Kendrick Lamar",
+      "url": "https://open.spotify.com/track/6hzbRKhJHo6cfCHSnNaDS8",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e022e92f776279eaf45d14a33fd",
+      "duration": 500960,
+      "explicit": true
+    },
+    {
+      "title": "São Gonça - Ao Vivo",
+      "artist": "Seu Jorge",
+      "url": "https://open.spotify.com/track/30lKTJnxHqfD1UeiAn0BLD",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0234a6489b2e9ae80ad3b57cbf",
+      "duration": 297066,
+      "explicit": false
+    },
+    {
+      "title": "White Ferrari",
+      "artist": "Frank Ocean",
+      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02c5649add07ed3720be9d5526",
+      "duration": 248807,
+      "explicit": false
+    },
+    {
+      "title": "Jukebox Joints (feat. Joe Fox & Kanye West)",
+      "artist": "A$AP Rocky, Joe Fox, Kanye West",
+      "url": "https://open.spotify.com/track/2gAGWaK4wvt2xrFUlR4mK8",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0249efdc44d0733042f8b99d57",
+      "duration": 323962,
+      "explicit": true
+    },
+    {
+      "title": "Rapp Snitch Knishes",
+      "artist": "MF DOOM, Mr. Fantastik",
+      "url": "https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0252f194d02c39909d1b284799",
+      "duration": 172893,
+      "explicit": true
+    },
+    {
+      "title": "Doomsday",
+      "artist": "MF DOOM, Pebbles The Invisible Girl",
+      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e026ce90ec627a0198a8efd127f",
+      "duration": 298053,
+      "explicit": true
+    },
+    {
+      "title": "FEEL.",
+      "artist": "Kendrick Lamar",
+      "url": "https://open.spotify.com/track/2LTlO3NuNVN70lp2ZbVswF",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e028b52c6b9bc4e43d873869699",
+      "duration": 214826,
+      "explicit": true
+    },
+    {
+      "title": "drive ME crazy!",
+      "artist": "Lil Yachty, Diana Gordon",
+      "url": "https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e026f578b21bce56056473da7e6",
+      "duration": 229804,
+      "explicit": true
+    },
+    {
+      "title": "Say So",
+      "artist": "Doja Cat",
+      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02d0bbfea6226b5c3707de92ed",
+      "duration": 237894,
+      "explicit": true
+    },
+    {
+      "title": "Pink Matter",
+      "artist": "Frank Ocean, André 3000",
+      "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e027aede4855f6d0d738012e2e5",
+      "duration": 268813,
+      "explicit": true
+    },
+    {
+      "title": "Forrest Gump",
+      "artist": "Frank Ocean",
+      "url": "https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e027aede4855f6d0d738012e2e5",
+      "duration": 194840,
+      "explicit": false
+    },
+    {
+      "title": "Haunted",
+      "artist": "Beyoncé",
+      "url": "https://open.spotify.com/track/7cioKB5CHVzk09SOtTyn0T",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e020d1d6e9325275f104f8e33f3",
+      "duration": 369040,
+      "explicit": true
+    },
+    {
+      "title": "Só Pra Você Lembrar",
+      "artist": "Filipe Ret, Mãolee",
+      "url": "https://open.spotify.com/track/1yNXGRORl6egstWgugOTs8",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02b013eef057dc85bc88d2c653",
+      "duration": 234252,
+      "explicit": false
+    },
+    {
+      "title": "Será que é amor - Ao vivo",
+      "artist": "Arlindo Cruz",
+      "url": "https://open.spotify.com/track/0ja80k9GL9aR5IZ79tQHVX",
+      "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02a38751a9205186b7a3ac16a6",
+      "duration": 274320,
+      "explicit": false
+    },
+    {
+      "title": "Mágica",
+      "artist": "Calcinha Preta",
+      "url": "https://open.spotify.com/track/7AaW6x9Ld7c9JqBuyw6vzB",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e020feadb03b09b02564d643132",
+      "duration": 259657,
+      "explicit": false
+    }
+  ]
+}
