@@ -10,7 +10,7 @@
 .photo-heading .eyebrow{margin:0 0 16px}
 .photo-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
 .photo{margin:0;min-width:0;padding:14px 14px 0;background:#202622;border:1px solid #43513d;border-radius:4px}
-.photo img{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:contain;background:#131714}
+.photo img{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;object-position:center 30%;background:#131714}
 .photo figcaption{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:52px;color:var(--accent);font:11px/1.5 'Courier New',monospace;letter-spacing:1px}
 .photo figcaption::after{content:'';width:22px;height:1px;background:var(--accent);opacity:.55}
 .photo-end{border-top:1px solid var(--line);margin-top:40px;padding:28px 0 40px}
@@ -26,3 +26,5 @@
 .photo{padding:10px 10px 0}
 .photo figcaption{min-height:46px}
 }
+
+.photo-view{display:block;position:relative;overflow:hidden}.photo-expand{position:absolute;bottom:12px;right:12px;padding:8px 10px;background:#161a18e8;color:var(--accent);font:11px var(--body)}.photo-wide img{object-position:42% center}.photo-night img{object-position:center 35%}.photo-view:focus-visible{outline-offset:4px}
