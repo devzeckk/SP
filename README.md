@@ -12,6 +12,10 @@ Em **Settings → Pages**, escolha **Deploy from a branch**, branch **main**, pa
 
 Cada entrada tem `title`, `artist`, `url`, `cover`, `duration` (milissegundos) e `explicit` (booleano). A ordem das entradas define a ordem das faixas. Os quatro destaques usam as posições 4, 1, 14 e 37, definidas em `app.js`.
 
+## Álbum de fotos
+
+Clique na capa da página inicial para abrir `galeria.html`. As quatro fotos estão em `assets/galeria/`, em formato WebP. O visual da galeria fica em `galeria.css`. Para adicionar o texto pessoal, edite `galeria.html` no comentário logo antes de `photo-grid`.
+
 ## Prévia e verificação
 
 Sirva a pasta com qualquer servidor HTTP estático. Não abra `index.html` diretamente como `file://`, pois a leitura do JSON depende de HTTP. Para checar a busca e validação dos links, execute `node tests/catalog.test.cjs` nesta pasta.
