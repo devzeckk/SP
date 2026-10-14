@@ -9,10 +9,10 @@
 .photo-heading h1{font:700 clamp(46px,6vw,76px)/1 var(--display);letter-spacing:-.055em;margin:0}
 .photo-heading .eyebrow{margin:0 0 16px}
 .photo-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
-.photo{margin:0;min-width:0;padding:14px 14px 0;background:#202622;border:1px solid #43513d;border-radius:4px}
+.photo{margin:0;min-width:0;padding:14px;background:#202622;border:1px solid #43513d;border-radius:4px}
 .photo img{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;object-position:center 30%;background:#131714}
-.photo figcaption{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:52px;color:var(--accent);font:11px/1.5 'Courier New',monospace;letter-spacing:1px}
-.photo figcaption::after{content:'';width:22px;height:1px;background:var(--accent);opacity:.55}
+
+
 .photo-end{border-top:1px solid var(--line);margin-top:40px;padding:28px 0 40px}
 .photo-end a{display:flex;justify-content:space-between;align-items:center;font-size:13px}
 .photo-end span{font-size:24px;color:var(--accent)}
@@ -23,10 +23,12 @@
 .photo-logo{font-size:28px}
 .photo-heading{padding:36px 0 28px}
 .photo-grid{grid-template-columns:1fr;gap:20px}
-.photo{padding:10px 10px 0}
-.photo figcaption{min-height:46px}
+.photo{padding:10px}
+
 }
 
 .photo-view{display:block;position:relative;overflow:hidden}.photo-expand{position:absolute;bottom:12px;right:12px;padding:8px 10px;background:#161a18e8;color:var(--accent);font:11px var(--body)}.photo-wide img{object-position:42% center}.photo-night img{object-position:center 35%}.photo-view:focus-visible{outline-offset:4px}
 
 .photo-note{max-width:620px;margin:48px auto 0;padding-left:22px;border-left:1px solid var(--line);color:var(--muted);font:400 14px/1.9 var(--body)}.photo-note p{margin:0 0 18px}.photo-note p:last-child{margin-bottom:0}@media(max-width:650px){.photo-note{margin-top:36px;padding-left:16px;font-size:13px;line-height:1.85}}
+
+.photo-grid{align-items:start}.photo-message summary{cursor:pointer;list-style:none}.photo-message summary::-webkit-details-marker{display:none}.photo-message summary:focus-visible{outline:2px solid var(--accent);outline-offset:4px}.message-open{display:none}.photo-message[open] .message-closed{display:none}.photo-message[open] .message-open{display:inline}.photo-message .photo-note{margin:22px 0 8px;padding:0 10px;border:0;font-size:13px;line-height:1.85}
